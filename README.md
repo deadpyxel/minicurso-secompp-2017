@@ -21,10 +21,11 @@ Apresentar conceitos básicos de Codificação Segura e Padrões de Segurança p
 
 ## Cronograma:
 
-1. Introdução e Conceitos iniciais;
-2. Demonstração de conceitos por exemplos práticos;
-3. Utilização da Ferramenta VisualCodeGrepper;
-4. Introdução aos conceitos de Codificação Segura em POO;
-5. Utilização da ferramenta Acunetix WVS;
-6. Desenvolvimento Seguro vs. Privacidade;
-7. Consideraçẽos Finais;
+1. Introdução e Motivação
+2. Conceitos básicos
+3. Identificando vulnerabilidades
+4. Padrões de Segurança
+5. Utilização de Ferramentas
+6. Segurança em IoT
+7. Privacidade vs Segurança vs Produto Personalizável
+8. Considerações Finais
